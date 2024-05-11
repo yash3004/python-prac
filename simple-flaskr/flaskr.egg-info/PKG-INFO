@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: flaskr
+Version: 0.0.1
+Summary: simple flask projects
+Requires-Python: >=3.8
+Requires-Dist: flask[all]
+Requires-Dist: grpcio
+Requires-Dist: grpcio-tools
+Requires-Dist: flask-sqlalchemy

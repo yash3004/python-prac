@@ -1,0 +1,15 @@
+[project]
+name = 'flaskr'
+version = '0.0.1'
+description = 'simple flask projects'
+requires-python = '>=3.8'
+dependencies = [
+
+	"flask[all]",
+	"grpcio",
+	"grpcio-tools",
+	"flask-sqlalchemy"
+
+
+	
+]
